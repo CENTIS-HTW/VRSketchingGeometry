@@ -1,6 +1,6 @@
 {
   "name": "de.htw-berlin.centis.vr-sketching-geometry",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "displayName": "VR Sketching Geometry",
   "description": "Lightweight VR Sketching Tool",
   "unity": "2022.3",
